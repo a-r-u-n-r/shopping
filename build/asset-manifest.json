@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TipTop-Trendz/static/css/main.44d7a9cc.css",
+    "main.js": "/TipTop-Trendz/static/js/main.b1201491.js",
+    "static/js/787.9a5efe06.chunk.js": "/TipTop-Trendz/static/js/787.9a5efe06.chunk.js",
+    "index.html": "/TipTop-Trendz/index.html",
+    "main.44d7a9cc.css.map": "/TipTop-Trendz/static/css/main.44d7a9cc.css.map",
+    "main.b1201491.js.map": "/TipTop-Trendz/static/js/main.b1201491.js.map",
+    "787.9a5efe06.chunk.js.map": "/TipTop-Trendz/static/js/787.9a5efe06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d7a9cc.css",
+    "static/js/main.b1201491.js"
+  ]
+}
