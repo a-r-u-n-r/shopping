@@ -55,15 +55,6 @@ const submitfu=(e)=>{
     if(!userValidator(login.name)) return setnameError("* please enter a valid name")
     if(!passwordValidator(login.password)) return setPasswordError("* The Password mustbr strong")
    
-   
-  // if(successmsg)
-   /// LoginService.checkCustomer(login).then((response)=>{
-    //  console.log(response);
-   // })
-   //.catch((error)=>{
-    //  console.log(error);
-    //}); 
-
     const response = axios.get(BASE_URL+"/check/"+login.name+" "+login.password,login)
     .then((response)=>{
       if(response.data.name){
