@@ -8,4 +8,5 @@ class LoginService{
 
 }
 export default new LoginService();
+console.writeline("Behold the Kid");
 
